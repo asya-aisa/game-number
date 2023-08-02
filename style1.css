@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+.par {
+    margin-top: 300px;
+    margin-left: 100px;
+    font-size: 60px;
+    color: #99F3BD;
+    text-shadow: 0 -1px rgba(115, 211, 123, 0.952), 0 0 5px rgb(89, 165, 106), 0 0 8px rgb(97, 202, 124);
+    font-family: 'Arvo', serif;
+    filter: blur(0,9px);
+}
